@@ -18,7 +18,7 @@ public class exercici1T6Matrius {
             System.out.println(matr[i][j]);
         }
     }
-    
+    //practicando el control de versiones con Git
     //se usa "Arrays.deepToString(matriz)" per a imprimir matrius. El "Arrays.toString" no es suficient.
     System.out.println(Arrays.deepToString(matr)); 
     }
